@@ -9,5 +9,5 @@ l'envoi d'un repository Git sur GitHub,
 4 commits distincts montant l'ajout puis la modification des fichiers :
 - modification de README.txt
 - création de projet.txt
-- création de script.js
+- création de script.js (n'apparaît plus dans la liste après la modification de script mais a existée)
 - modification de script.js
